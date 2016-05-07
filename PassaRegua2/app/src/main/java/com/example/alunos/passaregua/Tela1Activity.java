@@ -9,7 +9,6 @@ public class Tela1Activity extends AppCompatActivity {
 
 
 
-    //Define os objetos
     EditText editTotalConta;
     EditText editTotalBebida;
     EditText editTotalBebum;
